@@ -284,7 +284,7 @@
                         <a href="#" class="social-icon social-facebook" title="Facebook"><i class="icon-facebook-f"></i></a>
                         <a href="#" class="social-icon social-twitter" title="Twitter"><i class="icon-twitter"></i></a>
                         <a href="#" class="social-icon social-instagram" title="Instagram"><i class="icon-instagram"></i></a>
-                        <a href="#" class="social-icon social-youtube" title="Youtube"><i class="icon-youtube"></i></a>
+                        <a href="https://www.youtube.com/channel/UChJVUbQap5Mi7N5W_zwAjZA" class="social-icon social-youtube" title="Youtube"><i class="icon-youtube"></i></a>
                         <a href="#" class="social-icon social-pinterest" title="Pinterest"><i class="icon-pinterest"></i></a>
                     </div><!-- End .soial-icons -->
                 </div><!-- End .container -->
