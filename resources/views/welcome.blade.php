@@ -138,10 +138,6 @@
                                 <div class="product-price">
                                     <div class="out-price">$84.00</div><!-- End .out-price -->
                                 </div><!-- End .product-price -->
-
-                                <div class="product-action">
-                                    <a href="#" class="btn-product btn-cart"><span>add to cart</span><i class="icon-long-arrow-right"></i></a>
-                                </div><!-- End .product-action -->
                             </div><!-- End .product-body -->
                         </div><!-- End .product -->
                     </div><!-- End .product-item -->
@@ -159,10 +155,6 @@
                                 <div class="product-price">
                                     <div class="out-price">$50.00</div><!-- End .out-price -->
                                 </div><!-- End .product-price -->
-
-                                <div class="product-action">
-                                    <a href="#" class="btn-product btn-cart"><span>add to cart</span><i class="icon-long-arrow-right"></i></a>
-                                </div><!-- End .product-action -->
                             </div><!-- End .product-body -->
                         </div><!-- End .product -->
                     </div><!-- End .product-item -->
@@ -180,14 +172,6 @@
                                 <div class="product-price">
                                     $83.00
                                 </div><!-- End .product-price -->
-                                <div class="product-nav product-nav-dots">
-                                    <a href="#" class="active" style="background: darkblue;"><span class="sr-only">Color name</span></a>
-                                    <a href="#" style="background: #e2e2e2;"><span class="sr-only">Color name</span></a>
-                                </div><!-- End .product-nav -->
-
-                                <div class="product-action">
-                                    <a href="#" class="btn-product btn-cart"><span>add to cart</span><i class="icon-long-arrow-right"></i></a>
-                                </div><!-- End .product-action -->
                             </div><!-- End .product-body -->
                         </div><!-- End .product -->
                     </div><!-- End .product-item -->
@@ -205,10 +189,6 @@
                                 <div class="product-price">
                                     $32.00
                                 </div><!-- End .product-price -->
-
-                                <div class="product-action">
-                                    <a href="#" class="btn-product btn-cart"><span>add to cart</span><i class="icon-long-arrow-right"></i></a>
-                                </div><!-- End .product-action -->
                             </div><!-- End .product-body -->
                         </div><!-- End .product -->
                     </div><!-- End .product-item -->
