@@ -48,6 +48,7 @@
                         <a href="/" class="logo">
                             <img src="assets/images/niko/Logo Niko Merch.jpeg" style="width: 20vh; height:20vh">
                         </a>
+
                     </div><!-- End .header-left -->
 
                     <div class="header-right">
@@ -268,10 +269,19 @@
                         </div><!-- End .product -->
                     </div><!-- End .product-item -->
                 </div><!-- End .products-container -->
+
+                <div>
+                    <a href="https://www.youtube.com/channel/UChJVUbQap5Mi7N5W_zwAjZA" target="_blank">
+                        <img src="assets/images/niko/subscribe.png" style="width: 45vh; height:20vh;margin-left:auto;margin-right:auto">
+                    </a>
+                </div>
+
             </div><!-- End .container -->
+
+
         </main><!-- End .main -->
 
-        <footer class="footer footer-2">
+        <footer class="footer footer-2" style="margin-top: 50px;">
             <div class="footer-bottom">
                 <div class="container">
                     <p class="footer-copyright">Copyright © 2021 Nikoplayzs Merch. All Rights Reserved.</p><!-- End .footer-copyright -->
@@ -328,7 +338,7 @@
                 <a href="#" class="social-icon" target="_blank" title="Facebook"><i class="icon-facebook-f"></i></a>
                 <a href="#" class="social-icon" target="_blank" title="Twitter"><i class="icon-twitter"></i></a>
                 <a href="#" class="social-icon" target="_blank" title="Instagram"><i class="icon-instagram"></i></a>
-                <a href="#" class="social-icon" target="_blank" title="Youtube"><i class="icon-youtube"></i></a>
+                <a href="https://www.youtube.com/channel/UChJVUbQap5Mi7N5W_zwAjZA" class="social-icon" target="_blank" title="Youtube"><i class="icon-youtube"></i></a>
             </div><!-- End .social-icons -->
         </div><!-- End .mobile-menu-wrapper -->
     </div><!-- End .mobile-menu-container -->
