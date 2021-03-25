@@ -136,7 +136,7 @@
                             <div class="product-body">
                                 <h3 class="product-title"><a href="#">Nikoplayz Merch Hoodie</a></h3><!-- End .product-title -->
                                 <div class="product-price">
-                                    <div class="out-price">$84.00</div><!-- End .out-price -->
+                                    $84.00
                                 </div><!-- End .product-price -->
                             </div><!-- End .product-body -->
                         </div><!-- End .product -->
@@ -153,7 +153,7 @@
                             <div class="product-body">
                                 <h3 class="product-title"><a href="#">Nikoplayzs Merch T-Shirt</a></h3><!-- End .product-title -->
                                 <div class="product-price">
-                                    <div class="out-price">$50.00</div><!-- End .out-price -->
+                                    $50.00
                                 </div><!-- End .product-price -->
                             </div><!-- End .product-body -->
                         </div><!-- End .product -->
