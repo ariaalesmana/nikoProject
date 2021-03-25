@@ -46,7 +46,7 @@
                         </button>
 
                         <a href="/" class="logo">
-                            <img src="assets/images/niko/Logo Niko Merch.jpeg" alt="Molla Logo" width="164" height="50">
+                            <img src="assets/images/niko/Logo Niko Merch.jpeg" style="width: 20vh; height:20vh">
                         </a>
                     </div><!-- End .header-left -->
 
@@ -179,7 +179,7 @@
             <div class="container mt-xl-10">
 
                 <div class="products-container" data-layout="fitRows">
-                    <div class="product-item furniture col-6 col-md-4 col-lg-3">
+                    <div class="product-item furniture col-12 col-md-4 col-lg-3">
                         <div class="product product-4">
                             <figure class="product-media">
                                 <a href="#">
@@ -201,7 +201,7 @@
                         </div><!-- End .product -->
                     </div><!-- End .product-item -->
 
-                    <div class="product-item lighting col-6 col-md-4 col-lg-3">
+                    <div class="product-item lighting col-12 col-md-4 col-lg-3">
                         <div class="product product-4">
                             <figure class="product-media">
                                 <a href="#">
@@ -222,7 +222,7 @@
                         </div><!-- End .product -->
                     </div><!-- End .product-item -->
 
-                    <div class="product-item furniture col-6 col-md-4 col-lg-3">
+                    <div class="product-item furniture col-12 col-md-4 col-lg-3">
                         <div class="product product-4">
                             <figure class="product-media">
                                 <a href="#">
@@ -247,7 +247,7 @@
                         </div><!-- End .product -->
                     </div><!-- End .product-item -->
 
-                    <div class="product-item furniture col-6 col-md-4 col-lg-3">
+                    <div class="product-item furniture col-12 col-md-4 col-lg-3">
                         <div class="product product-4">
                             <figure class="product-media">
                                 <a href="#">
